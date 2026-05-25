@@ -1,9 +1,4 @@
-Here’s a complete beginner-friendly `README.md` for your project.
-You can directly copy this into your `README.md` file on [GitHub](https://github.com?utm_source=chatgpt.com).
 
-# README CONTENT
-
-````md
 # AI-Powered SHL Assessment Recommendation System
 
 An intelligent AI application that recommends SHL assessments based on hiring requirements using semantic search, vector databases, FastAPI, Streamlit, and Gemini AI.
